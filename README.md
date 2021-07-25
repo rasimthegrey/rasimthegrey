@@ -6,11 +6,10 @@ his spare time to learning new things. I’m interested in microservices and clo
 ## Skills
 
 - Go
-- Python
+- JavaScript
+- React.js
 - Git
 - REST
-- gRPC
-- Docker
 - Linux
 - PostgreSQL
 
