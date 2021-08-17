@@ -1,16 +1,17 @@
 # Hi, I’m Rasim.
 
-I'm computer engineering student at Canakkale Onsekiz Mart University. Also Also a researcher, I am someone who devotes 
-his spare time to learning new things. I’m interested in microservices and cloud technologies.
+I'm computer engineering student at Canakkale Onsekiz Mart University. Also a researcher, I am someone who devotes 
+his spare time to learning new things. I’m interested in microservices and cloud technologies. I'm developing web applications.
 
 ## Skills
 
-- Go
+- Node.js
 - JavaScript
 - React.js
 - Git
-- REST
-- Linux
+- Golang
+- Express.js
+- MongoDB
 - PostgreSQL
 
 ## Contact
