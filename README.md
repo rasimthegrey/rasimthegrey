@@ -1,24 +1,23 @@
 # Hi, I’m Rasim.
 
-I'm computer engineering student at Canakkale Onsekiz Mart University. Also a researcher, I am someone who devotes 
-his spare time to learning new things. I’m interested in microservices and cloud technologies. I'm developing web applications.
+I am a senior computer engineering student and I want to work in DevOps in my career. I have 1 year of experience in the sector and by working in different positions, I have improved my skills in software development and software development processes, teamwork, and problem solving. Thanks to my problem-solving skills, analytical thinking skills and my tendency to teamwork, I can work effectively in projects. I aim to provide solutions based on DevOps principles that combine flexibility and reliability in an environment that encourages continuous improvement and automation by using innovative technologies and to develop myself more in this field.
 
 ## Skills
 
-- Node.js
-- JavaScript
-- React.js
-- Git
 - Golang
-- Express.js
-- MongoDB
-- PostgreSQL
+- Git
+- Docker
+- Bash Scripting
+- Linux
+- Jenkins
+- Nginx
+- JavaScript
 
 ## Contact
 
 You can reach me from the addresses below:
 
-- E-mail: rasim.mutlu@protonmail.com
+- E-mail: rasim.mutlu99@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rasimmutlu/
 - Twitter: https://twitter.com/rasimthegrey
 
