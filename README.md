@@ -9,9 +9,9 @@ I am a senior computer engineering student and I want to work in DevOps in my ca
 - Docker
 - Bash Scripting
 - Linux
-- Jenkins
-- Nginx
-- JavaScript
+- Amazon EC2
+- Amazon ECS
+- Python
 
 ## Contact
 
